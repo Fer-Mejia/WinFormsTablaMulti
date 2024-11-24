@@ -1,0 +1,17 @@
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\WinFormsTablaMulti.Form1.resources
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\WinFormsTablaMulti.csproj.GenerateResource.cache
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\WinFormsTablaMulti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\WinFormsTablaMulti.AssemblyInfoInputs.cache
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\WinFormsTablaMulti.AssemblyInfo.cs
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\WinFormsTablaMulti.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\bin\Debug\net8.0-windows\WinFormsTablaMulti.exe
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\bin\Debug\net8.0-windows\WinFormsTablaMulti.deps.json
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\bin\Debug\net8.0-windows\WinFormsTablaMulti.runtimeconfig.json
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\bin\Debug\net8.0-windows\WinFormsTablaMulti.dll
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\bin\Debug\net8.0-windows\WinFormsTablaMulti.pdb
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\WinFormsTablaMulti.dll
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\refint\WinFormsTablaMulti.dll
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\WinFormsTablaMulti.pdb
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\WinFormsTablaMulti.genruntimeconfig.cache
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\ref\WinFormsTablaMulti.dll
+C:\Users\Fernanda R Mejia\OneDrive\Documentos\Documentos\Universidad\C#VS\WindowsForms\WinFormsTablaMulti\obj\Debug\net8.0-windows\WinFormsTablaMulti.Properties.Resources.resources
